@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me sabo.a@tutanota.com
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&color=%2336BCF7&lines=Programmer;CyberSec;Python%2C+Java%2C+JavaScript;React%2C+Vue%2C+Svelte;Linux)](https://git.io/typing-svg)
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/_sabo_u?label=Follow)](https://twitter.com/_sabo_u)
 ![GitHub followers](https://img.shields.io/github/followers/sabo-u?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=sabo-u.sabo-u)
